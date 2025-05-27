@@ -10,7 +10,6 @@
 # Files associated with CKEditor 5 repository.
 **/node_modules
 build/
-dist/
 docs/api/output.json
 yarn.lock
 package-lock.json
