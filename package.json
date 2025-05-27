@@ -180,7 +180,7 @@
     "url": "https://github.com/ckeditor/ckeditor5.git"
   },
   "scripts": {
-    "postinstall": "node ./scripts/postinstall.mjs",
+    "postinstall": "npm install && node ./scripts/postinstall.mjs",
     "lint": "eslint --format ./scripts/eslint-formatter.cjs",
     "stylelint": "stylelint --quiet --allow-empty-input \"packages/**/*.css\" \"docs/**/*.css\"",
     "test": "node --max_old_space_size=4096 node_modules/@ckeditor/ckeditor5-dev-tests/bin/testautomated.js",
