@@ -13,10 +13,10 @@
   "type": "module",
   "main": "src/index.ts",
   "dependencies": {
-    "@ckeditor/ckeditor5-clipboard": "45.1.0",
+    "@ckeditor/ckeditor5-clipboard": "46.0.3",
     "@ckeditor/ckeditor5-core": "45.1.0",
     "@ckeditor/ckeditor5-engine": "45.1.0",
-    "ckeditor5": "45.1.0"
+    "ckeditor5": "45.2.2"
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-basic-styles": "45.1.0",
