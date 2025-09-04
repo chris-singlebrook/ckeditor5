@@ -14,7 +14,7 @@
   "main": "src/index.ts",
   "dependencies": {
     "ckeditor5": "45.1.0",
-    "@ckeditor/ckeditor5-clipboard": "45.1.0",
+    "@ckeditor/ckeditor5-clipboard": "45.2.2",
     "@ckeditor/ckeditor5-core": "45.1.0",
     "@ckeditor/ckeditor5-engine": "45.1.0",
     "@ckeditor/ckeditor5-icons": "45.1.0",
