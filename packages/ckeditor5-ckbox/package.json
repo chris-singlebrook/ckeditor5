@@ -28,7 +28,7 @@
   "devDependencies": {
     "@ckeditor/ckeditor5-autosave": "45.1.0",
     "@ckeditor/ckeditor5-basic-styles": "45.1.0",
-    "@ckeditor/ckeditor5-clipboard": "45.1.0",
+    "@ckeditor/ckeditor5-clipboard": "45.2.2",
     "@ckeditor/ckeditor5-dev-utils": "^49.0.0",
     "@ckeditor/ckeditor5-editor-classic": "45.1.0",
     "@ckeditor/ckeditor5-essentials": "45.1.0",

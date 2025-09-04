@@ -29,7 +29,7 @@
     "@ckeditor/ckeditor5-table": "45.1.0",
     "@ckeditor/ckeditor5-typing": "45.1.0",
     "@ckeditor/ckeditor5-undo": "45.1.0",
-    "@ckeditor/ckeditor5-clipboard": "45.1.0",
+    "@ckeditor/ckeditor5-clipboard": "45.2.2",
     "@ckeditor/ckeditor5-watchdog": "45.1.0",
     "@ckeditor/ckeditor5-image": "45.1.0",
     "@ckeditor/ckeditor5-link": "45.1.0",

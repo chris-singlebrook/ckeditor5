@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-basic-styles": "45.1.0",
-    "@ckeditor/ckeditor5-clipboard": "45.1.0",
+    "@ckeditor/ckeditor5-clipboard": "45.2.2",
     "@ckeditor/ckeditor5-editor-classic": "45.1.0",
     "@ckeditor/ckeditor5-enter": "45.1.0",
     "@ckeditor/ckeditor5-heading": "45.1.0",
