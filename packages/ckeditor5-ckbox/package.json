@@ -21,14 +21,14 @@
     "@ckeditor/ckeditor5-ui": "45.1.0",
     "@ckeditor/ckeditor5-upload": "45.1.0",
     "@ckeditor/ckeditor5-utils": "45.1.0",
-    "ckeditor5": "45.1.0",
+    "ckeditor5": "45.2.2",
     "blurhash": "2.0.5",
     "es-toolkit": "1.32.0"
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-autosave": "45.1.0",
     "@ckeditor/ckeditor5-basic-styles": "45.1.0",
-    "@ckeditor/ckeditor5-clipboard": "45.1.0",
+    "@ckeditor/ckeditor5-clipboard": "47.6.0",
     "@ckeditor/ckeditor5-dev-utils": "^49.0.0",
     "@ckeditor/ckeditor5-editor-classic": "45.1.0",
     "@ckeditor/ckeditor5-essentials": "45.1.0",
