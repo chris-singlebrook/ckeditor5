@@ -13,7 +13,7 @@
   "type": "module",
   "main": "src/index.ts",
   "dependencies": {
-    "ckeditor5": "45.1.0",
+    "ckeditor5": "45.2.2",
     "@ckeditor/ckeditor5-core": "45.1.0",
     "@ckeditor/ckeditor5-icons": "45.1.0",
     "@ckeditor/ckeditor5-typing": "45.1.0",
