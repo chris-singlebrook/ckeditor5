@@ -18,7 +18,7 @@
     "@ckeditor/ckeditor5-editor-classic": "45.1.0",
     "@ckeditor/ckeditor5-highlight": "45.1.0",
     "@ckeditor/ckeditor5-utils": "45.1.0",
-    "ckeditor5": "45.1.0"
+    "ckeditor5": "45.2.2"
   },
   "author": "CKSource (http://cksource.com/)",
   "license": "SEE LICENSE IN LICENSE.md",
